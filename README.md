@@ -1,5 +1,5 @@
 # Test Function Evaluation
-This repository delivers supplementary material for the article * *Improving the Reliability of Test Functions Generators* *.
+This repository delivers supplementary material for the article *Improving the Reliability of Test Functions Generators*.
 
 ## Jupyter Notebook
 In [mixedModels.ipynb](mixedModels.ipynb) you find the code to evaluate the performance of (several) continuous optimization algorithms based on an ANOVA approach w.r.t mixed models.
