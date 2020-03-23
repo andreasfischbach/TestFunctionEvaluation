@@ -8,7 +8,7 @@ A fixed-effect is an unknown constant. A random effect is a random variable.
 We are estimating the parameters that describe its distribution, because—in contrast to fixed effects—it makes no sense to estimate the random effect itself.
 
 ## Data frames
-The performed case studies covered two scenarios:
+The performed case studies cover two scenarios:
 - **S**ingle **A**lgorithm on **M**ultiple **P**roblem instances (SAMP)
 - **M**ultiple **A**lgorithms on **M**ultiple **P**roblem instances (MAMP)
 
