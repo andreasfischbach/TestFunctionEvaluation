@@ -1,5 +1,5 @@
 # Test Function Evaluation
-This repository delivers supplementary material for the article Improving the Reliability of Test Functions Generators.
+This repository delivers supplementary material for the article * *Improving the Reliability of Test Functions Generators* *.
 
 ## Jupyter Notebook
 In [mixedModels.ipynb](mixedModels.ipynb) you find the code to evaluate the performance of (several) continuous optimization algorithms based on an ANOVA approach w.r.t mixed models.
@@ -17,3 +17,5 @@ Generalized Simulated Annealing (GenSA) was used on 4 randomly created gaussian 
 
 The MAMP results can be found in [2019-03-21.GLG.tuned.SPOT.GenSA.DEoptim.RS.mamp.RData](data/2019-03-21.GLG.tuned.SPOT.GenSA.DEoptim.RS.mamp.RData)
 Generalized Simulated Annealing (GenSA), Sequential Parameter Optimization Toolbox (SPOT), Differential Evolution (DEoptim) and a simple Random Search (RS) were used on 4 randomly created gaussian landscape instances, 30 repetitions were performed on each instance.
+
+After loading one of the RData files, an R data.frame named resultDataFrame is available in the environment.
